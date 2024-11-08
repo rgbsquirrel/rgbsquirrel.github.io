@@ -14,5 +14,12 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    
+}
+
+body { /*achtergrond pagina en zorgen dat je kunt scrollen*/
+    background: 
+        url('/src/download.png') no-repeat center top; 
+        background-color: #313131;
+        background-size: 100vw 100vh;
+        height: 200vh;
 }
